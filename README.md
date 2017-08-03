@@ -5,7 +5,7 @@
 + Baidu real-time headlines
 + Sougou real-time keywords and headlines
 
-###And the following target will be coming soon:
+### And the following target will be coming soon:
 + Baidu Index
 + ...
 
