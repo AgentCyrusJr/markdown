@@ -10,7 +10,6 @@
 + ...
 
 ## Instructions
----
 Under the directory `Headlines\`, execute the following in command lines:
 
 `$ scrapy crawl Headlines -a target=[option]`
@@ -24,7 +23,6 @@ For example, you want to crawl 'sougou':
 `$ scrapy crawl Headlines -a target="sougou"` 
 
 ## Introductions
----
 In this **scrapy**-based web crawler, we have currently defined three types of items:
 
 1. BaiduItem()  
