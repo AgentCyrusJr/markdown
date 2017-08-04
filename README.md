@@ -5,26 +5,24 @@
 + Baidu real-time headlines
 + Sougou real-time keywords and headlines
 
-###And the following target will be coming soon:
+### And the following target will be coming soon:
 + Baidu Index
 + ...
 
 ## Instructions
----
 Under the directory `Headlines\`, execute the following in command lines:
 
 `$ scrapy crawl Headlines -a target=[option]`
 
 >  [option] can be replaced: 
-	> 1. "baidu"   ( for Baidu real-time headlines ) 
-	> 2. "sougou"   ( for Sougou real-time keywords and headlines )
+	> 1. "baidu" &nbsp;&nbsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;( for Baidu real-time headlines )    
+	> 2. "sougou" &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;( for Sougou real-time keywords and headlines )
 
 For example, you want to crawl 'sougou':
 
 `$ scrapy crawl Headlines -a target="sougou"` 
 
 ## Introductions
----
 In this **scrapy**-based web crawler, we have currently defined three types of items:
 
 1. BaiduItem()  
