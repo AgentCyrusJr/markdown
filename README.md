@@ -14,7 +14,7 @@ Under the directory `Headlines\`, execute the following in command lines:
 
 `$ scrapy crawl Headlines -a target=[option]`
 
->  [option] can be replaced: 
+> [option] can be replaced: 
 > 1. "baidu" &nbsp;&nbsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;( for Baidu real-time headlines )    
 > 2. "sougou" &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;( for Sougou real-time keywords and headlines )
 
