@@ -13,13 +13,19 @@
 +   Selenium模拟网页操作处理验证码以及异常操作
 
 ### 部分成果展示：（红框内为所爬取到的内容）
-![Img1]{https://github.com/AgentCyrusJr/markdown/blob/master/weekly/img1.PNG}
-![Img2]{https://github.com/AgentCyrusJr/markdown/tree/master/weekly/img2.PNG}
-![Img3]{https://github.com/AgentCyrusJr/markdown/tree/master/weekly/img3.PNG}
-![Img4]{https://github.com/AgentCyrusJr/markdown/tree/master/weekly/img4.PNG}
-![Img5]{https://github.com/AgentCyrusJr/markdown/tree/master/weekly/img5.PNG}
-![Img6]{https://github.com/AgentCyrusJr/markdown/tree/master/weekly/img6.PNG}
-![Img7]{https://github.com/AgentCyrusJr/markdown/tree/master/weekly/img7.PNG}
+![Img1](https://github.com/AgentCyrusJr/markdown/raw/master/weekly/img1.PNG)
+
+![Img2](https://github.com/AgentCyrusJr/markdown/raw/master/weekly/img2.PNG)
+
+![Img3](https://github.com/AgentCyrusJr/markdown/raw/master/weekly/img3.PNG)
+
+![Img4](https://github.com/AgentCyrusJr/markdown/raw/master/weekly/img4.PNG)
+
+![Img5](https://github.com/AgentCyrusJr/markdown/raw/master/weekly/img5.PNG)
+
+![Img6](https://github.com/AgentCyrusJr/markdown/raw/master/weekly/img6.PNG)
+
+![Img7](https://github.com/AgentCyrusJr/markdown/raw/master/weekly/img7.PNG)
 
 
 
